@@ -1,0 +1,5 @@
+# Deface-templets</br>
+This are some web defaced tamplets </br>
+A "deface template" typically refers to a pre-designed layout or set of code that is used to modify the appearance of a website or webpage illegally, often with the intent of defacing or vandalizing it. Website defacement involves unauthorized access to a website's content management system or server and then making alterations to the visible content, such as changing text, images, or other elements. This activity is considered illegal and unethical.
+</br></br>
+It's important to note that unauthorized access to computer systems, including websites, is a violation of the law in many jurisdictions. Such actions can lead to serious legal consequences. Engaging in ethical and legal activities is essential for maintaining a positive and responsible online presence. If you're interested in web development or design, consider focusing on legal and constructive ways to enhance websites and contribute positively to the online community.</br>
